@@ -1,0 +1,25 @@
+{
+  "name": "ptserver",
+  "version": "1.0.0",
+  "description": "Attendence tracking and marking app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SASS",
+    "Present-Teacher",
+    "Multi_Platform_Api"
+  ],
+  "author": "WEApps",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.4.1"
+  }
+}
